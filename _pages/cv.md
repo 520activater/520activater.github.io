@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A PDF version of my resumé is availiable [here](https://github.com/520activater/labixiaoxinboy.github.io/blob/pw/files/cv.pdf).
+A PDF version of my resumé is availiable [here](https://github.com/520activater/labi.github.io/blob/master/files/cv.pdf)
 
 # EDUCATION
 **Northwestern Polytechnical University (NWPU)** ("Double First-Class" Initiative)  
