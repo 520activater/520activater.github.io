@@ -37,22 +37,7 @@ A PDF version of my resumé is availiable [here](https://github.com/520activater
 - **Outstanding Students First Class Scholarship** *(Top 5%)* (2024)
 
 ---
-# RESEARCH EXPERIENCE
-
-### Group influence recognition based on causal inference and graph neural network  
-*8/2024 – 6/2026*  
-- Supported by the **National Undergraduate Training Program on Innovation and Entrepreneurship** *(Second PI)*.
-- Developed a novel framework combining casual learning theory and graph neural networks to evaluate group influence in social networks, enhancing robustness and interpretability.
-- Reproduced five research papers, completed Stanford’s CS224W course, and studied *Causal Inference in Statistics: A Primer*.
-- Currently optimizing feature extraction methods and ranking tasks.
-
-### Identification of hazardous targets in submarine pipeline areas  
-*8/2022 – 6/2024*  
-- Supported by the **Shaanxi Province Undergraduate Training Program on Innovation and Entrepreneurship** *(2/4)*.
-- Built a lightweight detection model using the YOLOv5 algorithm to identify hazardous objects in degraded underwater images, applying denoising and enhancement techniques.
-- Deployed the model on NVIDIA edge computing boards after completing Stanford’s CS231N course as a core team member.
-
----
 # SKILLS
-- **Programming:** Python, PyTorch, C, Matlab  
+- **Programming:** Python, PyTorch, C, Matlab\
+- **tools:** Cursor, PyCharm, Github, Obsidian, Texstudio
 - **Languages:** Chinese Mandarin *(Native)*, English *(IELTS 7.0)*
