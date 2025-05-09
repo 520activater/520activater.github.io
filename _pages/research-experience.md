@@ -3,8 +3,8 @@ layout: archive
 title: "Research Experience"
 permalink: /research/
 author_profile: true
-redirect_from:
-  - /experience
+#redirect_from:
+#  - /experience
 ---
 
 ## Group influence recognition based on causal inference and graph neural network  
