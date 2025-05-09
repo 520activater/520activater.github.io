@@ -16,7 +16,7 @@ redirect_from:
 2. Incorporate Causal Inference to extract more reasonable node feature
 3. Aggregate group representation from node embeddings
 
-**Existing Contribution**
+### Existing Contribution
 Create an Autoencoder based on adjacent reconstruction and embeddings similarity.
 
 I am scheduled to present a contributed talk in [the 3rd Joint Conference on Statistics and Data Science in China](https://www.jconf-sds.com/)
