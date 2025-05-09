@@ -4,7 +4,7 @@ title: "Research Experience"
 permalink: /research/
 author_profile: true
 redirect_from:
-  - /research
+  - /experience
 ---
 
 ## Group influence recognition based on causal inference and graph neural network  
