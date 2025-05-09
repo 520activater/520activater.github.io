@@ -22,9 +22,13 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "Research Experience"
+    url: /research/
     
  # - title: "Guide"
 #  url: /markdown/
 
   - title: "Contact"
     url: /contact/
+    
