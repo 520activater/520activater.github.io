@@ -11,19 +11,17 @@ redirect_from:
 *8/2024 – 6/2026*  
 - Supported by the **National Undergraduate Training Program on Innovation and Entrepreneurship** *(Principle Investigator)*.
 - Developed a novel framework combining casual learning theory and graph neural networks to evaluate group influence in social networks, enhancing robustness and interpretability.
-### Three research stage
-
+### Research stages
 <div style="text-align: left;">
-1. Employ GNN to obtain node embeddings (current stage)
-2. Incorporate Causal Inference to extract more reasonable node feature
-3. Aggregate group representation from node embeddings
+1. Utilize Graph Neural Networks (GNNs) to derive node embeddings (current stage)
+2. Integrate Causal Inference to extract more meaningful node features
+3. Aggregate group representations from node embeddings
 </div>
 
-### Existing Contribution
-
+### Current Contributions
 <div style="text-align: left;">
-Create an Autoencoder based on adjacent reconstruction and embeddings similarity to obtain sound node features used for node influence prediction.
-</div>
+Develop an Autoencoder leveraging adjacent reconstruction and embedding similarity to derive robust node features for influence prediction.
+</div
 
 I am scheduled to present a contribution report in [the 3rd Joint Conference on Statistics and Data Science in China](https://www.jconf-sds.com/)
 
