@@ -18,7 +18,7 @@ redirect_from:
 3. Aggregate group representations from node embeddings
 
 ### Current Contributions
-Develop an Autoencoder leveraging adjacent reconstruction and embedding similarity to derive robust node features for influence prediction.
+Develop an Autoencoder leveraging adjacent reconstruction and embedding similarity to derive efficient node features for influence prediction.
 
 
 I am scheduled to present a contribution report in [the 3rd Joint Conference on Statistics and Data Science in China](https://www.jconf-sds.com/)
