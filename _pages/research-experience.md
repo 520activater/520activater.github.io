@@ -8,7 +8,7 @@ author_profile: true
 ---
 
 ## Group influence recognition based on causal inference and graph neural network  
-*8/2024 – 6/2026*  
+Period: 08/2024 –-- 06/2026  
 - Supported by the **National Undergraduate Training Program on Innovation and Entrepreneurship** *(Principle Investigator)*.
 - Developed a novel framework combining casual learning theory and graph neural networks to evaluate group influence in social networks, enhancing robustness and interpretability.
 
@@ -18,7 +18,7 @@ author_profile: true
 3. Aggregate group representations from node embeddings
 
 ### Current Contributions
-Develop a Autoencoder leveraging adjacent reconstruction and embedding similarity to derive efficient node features for influence prediction.
+Develop an Autoencoder leveraging adjacent reconstruction and embedding similarity to derive efficient node features for influence prediction.
 
 
 I am scheduled to present a contribution report in [the 3rd Joint Conference on Statistics and Data Science in China](https://www.jconf-sds.com/)
