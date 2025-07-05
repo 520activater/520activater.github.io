@@ -18,7 +18,7 @@ A PDF version of my resumé is availiable [here](https://github.com/520activater
 *Xi'an, Shaanxi, China*  
 *Sept 2022 – present*  
 
-- **GPA:** 3.861/4.1 (Rank: 1/15)
+- **GPA:** 3.872/4.1 (Rank: 1/15)
 - **Coursework:**  
   Mathematical Analysis I (95), Mathematical Analysis II (94), Mathematical Analysis III (98),  
   Higher Algebra I (87), Higher Algebra II (86), Abstract Algebra (97), Ordinary Differential Equation (95),  
